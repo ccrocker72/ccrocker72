@@ -5,3 +5,9 @@
 -->
 - 🌱 I’m currently learning through the OMSCS program at Georgia Tech
 
+Connect with me:
+
+
+Languages and Tools:
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
