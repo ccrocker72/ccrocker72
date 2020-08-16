@@ -20,7 +20,7 @@
 <img align="left" alt="GitHub" width="26px" src="github.png" />
 <img align="left" alt="Terminal" width="26px" src="terminal.png" />
 <img align="left" alt="Matlab" width="26px" src="matlab.png" />
-<img align="left" alt="LabView" width="26px" src="LabView.png" />
+<img align="left" alt="LabView" width="26px" src="LabView.jpg" />
 <img align="left" alt="C" width="26px" src="C.png" />
 
 
