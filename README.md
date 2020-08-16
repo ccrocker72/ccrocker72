@@ -19,8 +19,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Matlab" width="26px" src="![matlab](https://user-images.githubusercontent.com/56033085/90341948-0e0bc500-dfd2-11ea-8998-f2e3ec20188b.png)
-" />
+<img align="left" alt="Matlab" width="26px" src="matlab.png" />
 
 
 <br />
