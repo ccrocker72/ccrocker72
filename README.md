@@ -4,7 +4,7 @@
 **ccrocker72/ccrocker72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🌱 I’m currently learning through the OMSCS program at Georgia Tech
-- 🥅 2022 Goals: Learn more about machine learning and its business applications
+- 🥅 2023 Goals: Expand my skillset to make use of a wider variety of data-oriented tools
 - ⚡ Fun fact: I can play 6 different musical instruments
 
 ### Connect with me:
