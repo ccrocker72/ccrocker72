@@ -5,19 +5,6 @@
 -->
 - 🥅 2025 Goals: Expand my skillset to make use of a wider variety of data-oriented tools
 - ⚡ Fun fact: I can play 6 different musical instruments
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="git.png" />
-<img align="left" alt="GitHub" width="26px" src="github.png" />
-<img align="left" alt="Terminal" width="26px" src="terminal.png" />
-<img align="left" alt="C" width="26px" src="C.png" />
-<img align="left" alt="Python" width="26px" src="python.jpg" />
-<br />
-<br />
-<br />
-<br />
-
 <details>
   <summary>:zap: Github Stats</summary>
 
